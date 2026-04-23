@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "DocBook",
+    "slug": "expo-doctor-appointment",
+    "version": "1.0.0",
+    "scheme": "docbook",
+    "platforms": ["ios", "android"],
+    "ios": { "supportsTablet": true, "bundleIdentifier": "com.phungnlg.docbook" },
+    "android": { "package": "com.phungnlg.docbook", "adaptiveIcon": { "foregroundImage": "./assets/icon.png", "backgroundColor": "#2563EB" } },
+    "plugins": ["expo-router"]
+  }
+}
